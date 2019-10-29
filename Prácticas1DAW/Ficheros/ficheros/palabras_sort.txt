@@ -1,0 +1,10 @@
+amapola
+botella
+casa
+coche
+hombre
+mujer
+naranja
+perro
+rata
+zorro
